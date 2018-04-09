@@ -13,7 +13,7 @@ public class ExceptionTest {
         ExceptionTest exceptionTest = new ExceptionTest();
         try {
             exceptionTest.test2();
-        } catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
