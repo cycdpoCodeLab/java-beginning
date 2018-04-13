@@ -4,7 +4,7 @@
   "description": "Learning Java",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cycjimmy/java-beginning.git"
+    "url": "git+https://github.com/cycdpoCodeLab/java-beginning.git"
   },
   "keywords": [
     "java",
@@ -12,7 +12,7 @@
   ],
   "author": "cycjimmy <cycjimmy@gmail.com> (https://github.com/cycjimmy)",
   "bugs": {
-    "url": "https://github.com/cycjimmy/java-beginning/issues"
+    "url": "https://github.com/cycdpoCodeLab/java-beginning/issues"
   },
-  "homepage": "https://github.com/cycjimmy/java-beginning#readme"
+  "homepage": "https://github.com/cycdpoCodeLab/java-beginning#readme"
 }
